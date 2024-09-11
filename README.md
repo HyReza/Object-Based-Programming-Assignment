@@ -1,6 +1,9 @@
 # myapp
 
 A new Flutter project.
+Name : Reza Edi Saputra
+NIM : 202203040041
+Study program: Bachelor of Informatics
 
 ## Getting Started
 
