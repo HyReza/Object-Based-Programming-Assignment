@@ -1,9 +1,9 @@
 # myapp
 
-A new Flutter project.
-Name : Reza Edi Saputra
-NIM : 202203040041
-Study program: Bachelor of Informatics
+<p>A new Flutter project.</p>
+<p>Name : Reza Edi Saputra</p>
+<p>NIM : 202203040041</p>
+<p>Study program: Bachelor of Informatics</p>
 
 ## Getting Started
 
